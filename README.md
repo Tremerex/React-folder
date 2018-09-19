@@ -1,6 +1,6 @@
-Flickr React SlideShow
+React Folder
 -----------------------
-React-Redux App to query flickr API
+React-Folder
 
 ## To Run in Local environment
 ````
