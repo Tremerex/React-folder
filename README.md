@@ -5,7 +5,7 @@ React-Folder
 ## To Run in Local environment
 ````
 # Install all dependencies
-yarn
+yarn install
 
 # Run the App
 yarn start
